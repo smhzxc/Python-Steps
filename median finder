@@ -1,3 +1,4 @@
+```ruby
 sayilar = [] # Girilen sayıları depolayacak bir liste açıyorum
 while True:
     sayi = input("Lütfen bir sayı girin (Çıkmak için 'E' veya 'e' tuşuna basın): ") # Girilen sayıları listeye input ediyorum
@@ -19,3 +20,4 @@ else:
 
 print("Girilen sayıların medyanı:", medyan)
 # Medyanı ekrana yazdırıyorum
+```
